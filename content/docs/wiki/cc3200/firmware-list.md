@@ -37,3 +37,4 @@ description: ""
 |EUD_V3.0.7-0|EUD_stable_branch|04 Dec 14:19|2020|75b4627||67fbe98d9d8dfb99e037590909ee4d5009b6677b26a79148aed5cbecee54bbce|
 |||Oct 26 16:21||0e3009e|UK Demobox Firmware|eeca1bfff7baf9ebe73bddb6911333e25c708373e6499eec181749ffc9786391|
 |||Oct 24 16:00||2485fa1|UK Demobox Firmware|7510936b12cde75e9a389952437c6d8a2c07959620c8d00791eba9d72b6ea068|
+|EUD_V3.1.0-0||Jun 07 09:35||160deed|DE Demobox Firmware|36a47e53498df52a4459bafa78f75a4f3418717144f85fd1fb06bf19e75a5ed8
